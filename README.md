@@ -10,7 +10,7 @@
 
 Juego que consiste en adivinar un número aleatorio entero positivo dentro de un rango determinado. El jugador tiene un número limitado de intentos y en cada uno se le proporciona una pista sobre el número a adivinar.
 
-> Este trabajo fue elaborado como parte del curso NOMBRE de Oracle Next Education (ONE).
+> Este trabajo fue elaborado como parte del curso *Lógica de programación* de Oracle Next Education (ONE).
 
 ## :dart: Instrucciones
 Antes de iniciar:
