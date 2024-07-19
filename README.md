@@ -28,7 +28,7 @@ Después del juego:
 - Para reiniciar el juego por completo y/o elegir nuevas condiciones de inicio, presiona el botón "Reiniciar juego"
 
 ## :key: Acceso
-Enlace de demostración: <>
+Enlace de demostración: <https://juego-numero-secreto-five.vercel.app/>
 
 ## :wave: Sobre mí
 ¡Hola! Me llamo Eugenia. Soy una entusiasta del aprendizaje con gusto en la ciencia, matemáticas y tecnología.
