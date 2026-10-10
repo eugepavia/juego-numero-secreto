@@ -2,7 +2,7 @@
 
 ![Created](https://img.shields.io/badge/Created-Jun_2024-248f24)
 ![Version](https://img.shields.io/badge/Version-1.1-c42121)
-![Made with](https://img.shields.io/badge/Made_with-VSCode-255074)
+![Made with](https://img.shields.io/badge/Made_with-JavaScript-255074)
 
 
 
@@ -31,6 +31,6 @@ Después del juego:
 Enlace de demostración: <https://juego-numero-secreto-five.vercel.app/>
 
 ## :wave: Sobre mí
-¡Hola! Me llamo Eugenia. Soy una entusiasta del aprendizaje con gusto en la ciencia, matemáticas y tecnología.
+¡Hola! Soy Eugenia, programadora Backend en crecimiento. Empecé como profesora de matemáticas, pero mi interés por el desarrollo de software me llevó a formarme en tecnologías Backend.
 
-Actualmente soy parte del programa Oracle Next Education, con el propósito de expandir mis conocimientos y desarrollarme profesionalmente en el mundo de la programación Back-End.
+Me entusiasma seguir aprendiendo, compartir mis conocimientos y poner mis habilidades al servicio de proyectos que aporten valor. ¿Empezamos?
